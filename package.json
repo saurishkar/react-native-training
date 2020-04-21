@@ -15,10 +15,12 @@
     "@react-navigation/stack": "^5.2.9",
     "react": "16.11.0",
     "react-native": "0.62.1",
+    "react-native-elements": "^1.2.7",
     "react-native-gesture-handler": "^1.6.1",
     "react-native-reanimated": "^1.8.0",
     "react-native-safe-area-context": "^0.7.3",
-    "react-native-screens": "^2.4.0"
+    "react-native-screens": "^2.4.0",
+    "react-native-vector-icons": "^6.6.0"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
@@ -33,5 +35,9 @@
   },
   "jest": {
     "preset": "react-native"
-  }
+  },
+  "main": "index.js",
+  "repository": "git@github.com:saurishkar/react-native-training.git",
+  "author": "Saurish Kar <basicallysaurish@gmail.com>",
+  "license": "MIT"
 }
